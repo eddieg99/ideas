@@ -4,3 +4,4 @@ Newline
 Added via github
 Added via local
 Added from feature
+Added from foobar
